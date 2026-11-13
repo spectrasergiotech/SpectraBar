@@ -145,3 +145,19 @@ Whether you're a gamer, enthusiast, power user, or someone who simply loves a cl
 ---
 
 *Made with Rust. Built for your desktop.*
+
+## ☕ Support SpectraBar
+
+Enjoying SpectraBar? Help support its development!
+
+Your contribution helps bring new features, improvements, and updates to the project.
+
+❤️ **Support SpectraBar via PayPal**
+
+Send your contribution to:
+
+**spectra.sergiotech@gmail.com**
+
+Every contribution is appreciated. Thank you for supporting independent development!
+
+**Your System. Your Style. Your Control.**
